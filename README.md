@@ -1,1 +1,1 @@
-book-app
+This is the simple book application management build on Laravel.
